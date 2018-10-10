@@ -27,4 +27,5 @@ repositories {
 dependencies {
 	compile('org.springframework.boot:spring-boot-starter-web')
 	testImplementation('org.springframework.boot:spring-boot-starter-test')
+	//implementation('javax.xml.blind:jaxb-api:2.3.0')
 }
