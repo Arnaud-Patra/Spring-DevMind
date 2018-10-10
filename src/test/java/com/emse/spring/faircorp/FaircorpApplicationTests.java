@@ -1,4 +1,4 @@
-package com.esme.spring.faircorp;
+package com.emse.spring.faircorp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
